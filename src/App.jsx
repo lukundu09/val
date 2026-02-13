@@ -452,7 +452,7 @@ export default function Valentine() {
         {/* Main content */}
         <div className="vday-wrapper">
           <div className="vday-deco-line" />
-          <p className="vday-label">XIV · February · 2025</p>
+          <p className="vday-label">XIV · February · 2026</p>
 
           <h1 className="vday-title">Ebun</h1>
           <p className="vday-subtitle">my favourite sin</p>
@@ -467,7 +467,7 @@ export default function Valentine() {
             <span className="vday-card-corner bl">✦</span>
             <span className="vday-card-corner br">✦</span>
 
-            <p className="vday-date">Valentine's Day, 2025</p>
+            <p className="vday-date">Valentine's Day, 2026</p>
             <p className="vday-salutation">My darling Ebun,</p>
 
             <div className="vday-body">
